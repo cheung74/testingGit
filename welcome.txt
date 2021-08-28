@@ -1,3 +1,10 @@
 'Hi, thanks for cloning this git repo'
 
+
+'Hi, i cloned the repo, thanks'
+'Hi, i cloned the repo, thanks'
+'Hi, i cloned the repo, thanks'
+'Hi, i cloned the repo, thanks'
+'Hi, i cloned the repo, thanks'
+'Hi, i cloned the repo, thanks'
 'Hi, i cloned the repo, thanks'
